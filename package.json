@@ -1,7 +1,10 @@
 {
   "name": "matriz",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "Matriz1.js",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,9 +12,6 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
-    "typescript": "^5.8.3"
-  },
   "dependencies": {
     "prompt-sync": "^4.2.0",
     "typescript-require": "^0.3.0"
